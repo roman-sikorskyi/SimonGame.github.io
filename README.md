@@ -8,7 +8,7 @@ Simon is built using modern web technologies and offers an engaging experience f
 
 **Features**
 
-- **I_nteractive Gameplay_**: The game presents a sequence of colors that players must repeat. Each round adds a new color to the sequence.
+- **_Interactive Gameplay_**: The game presents a sequence of colors that players must repeat. Each round adds a new color to the sequence.
 - **_Responsive Design_**: The game is fully responsive and can be played on various devices, including desktops, tablets, and smartphones.
 - **_Sound Effects_**: Each color is associated with a unique sound to help players memorize the sequence.
 - **_Score Tracking_**: The game keeps track of the player's score, which is the number of correct sequences they repeat.
