@@ -17,4 +17,4 @@ Simon is built using modern web technologies and offers an engaging experience f
 
 - **HTML5** for structuring the content.
 - **CSS3** for styling and layout.
--**JavaScript (jQuery)** for game logic and interactivity.
+- **JavaScript (jQuery)** for game logic and interactivity.
